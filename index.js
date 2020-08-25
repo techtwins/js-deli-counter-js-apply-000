@@ -13,8 +13,6 @@ function nowServing(katzDeliLine){
   }
 }
 
-
-
 function currentLine(line){
   let lineOrder = [];
  
